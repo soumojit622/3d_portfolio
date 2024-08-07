@@ -235,9 +235,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Notion Clone",
+    name: "TaskFlow",
     description:
-      "This is a Notion clone website built with Next.js 13, React, Convex, Tailwind CSS, Prisma, Clerk authentication, and Shadcn UI. The project aims to replicate the core functionalities of Notion 📝 while providing additional features and a customizable UI 🎨.",
+      "This is a note taking website built with Next.js 13, React, Convex, Tailwind CSS, Prisma, Clerk authentication, and Shadcn UI. The project aims to replicate the core functionalities of Notion 📝 while providing additional features and a customizable UI 🎨.",
 
     tags: [
       {
